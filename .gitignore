@@ -1,3 +1,4 @@
 Project1/.idea/
 Project1/cmake-build-debug/
 Project1/CMakeLists.txt
+project1/*.exe
